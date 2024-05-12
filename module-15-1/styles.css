@@ -1,0 +1,25 @@
+.btn {
+    width: 100px;
+    height: auto;
+    padding: 10px;
+    min-height: 50px;
+    background-color: #EE82EE;
+    border-radius: 40px;
+    border: none;
+    cursor: pointer;
+}
+
+.btn-text {
+    margin-bottom: 5px;
+}
+
+.btn-icon {
+    margin-left: 15px;
+    margin-bottom: 5px;
+    height: 10px;
+    width: 50px;
+}
+
+.hidden {
+    display: none;
+}
